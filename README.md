@@ -8,7 +8,7 @@
 ## Explore My Technical Toolbox
 > Hover over each skill to uncover its name!
 
-### Core Skills
+### Core Skills :
 
 ![kotlin](https://user-images.githubusercontent.com/94210466/176880688-46732008-93f7-4fd6-8177-286f566d50df.svg "Kotlin")
 ![java](https://user-images.githubusercontent.com/94210466/176880691-4ab9e925-6394-436f-861e-5958410a6cc2.svg "JAVA")
@@ -18,7 +18,7 @@
 <img src = "https://github.com/1405yuga/1405yuga/assets/82303711/98e8d621-0cd7-49d6-9538-64e78096773b" width = "48" height = "48" title = "Android">
 <img src = "https://github.com/1405yuga/1405yuga/assets/82303711/9cb21027-9b3b-42de-9fef-d8777b541d8f" width = "48" height = "48" title = "Material design">
 
-### Additional Skills
+### Additional Skills :
 
 ![python](https://user-images.githubusercontent.com/94210466/176882150-a2db58bd-4895-407d-bd0b-dcf5d1cd915b.svg "python")
 ![django](https://github.com/1405yuga/1405yuga/assets/82303711/57333006-acc2-46fe-98ff-427d55ceefac "Django")
@@ -27,3 +27,25 @@
 ![html-5](https://user-images.githubusercontent.com/94210466/176882240-678b5588-a0cb-474f-902d-072ecd037965.svg "HTML-5")
 ![c-programming](https://user-images.githubusercontent.com/94210466/176883523-e7b53dfd-c053-463b-8785-129a6c82a2fa.svg "C/C++ programming")
 
+## Courses I've Conquered
+
+<a href ="https://g.dev/Yuga_Vasaikar">
+<img 
+    src="https://developer.android.com/static/images/hero-assets/android-basics-kotlin.svg",
+    height=200,
+    title="Android Basics in Kotlin">
+</a>
+
+<a href ="https://www.coursera.org/account/accomplishments/verify/2HNZMCSRB3V7">
+<img 
+    src="https://github.com/1405yuga/1405yuga/assets/82303711/bc27d20d-2dcb-441d-bf4a-b2b0cfc93bc3",
+    height=200,
+    title="Python Data Structures">
+</a>
+
+<a href ="https://www.coursera.org/account/accomplishments/verify/GTJSZ6VAZJTM">
+<img 
+    src="https://github.com/1405yuga/1405yuga/assets/82303711/bc27d20d-2dcb-441d-bf4a-b2b0cfc93bc3",
+    height=200,
+    title="Crash Course on Python">
+</a>
