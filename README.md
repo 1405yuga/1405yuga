@@ -30,8 +30,10 @@
 ## Projects in Focus
 >Hover for a Glimpse, Click for Full Details and Code!
 
-[![Train Indicator](https://github.com/1405yuga/Train-Indicator/assets/82303711/8e28307a-fcef-4de2-b712-ed9f131dd2ac "[Train Indicator] - This is the android application which plots the railway stations of Mumbai local with the status of the station i.e Fast station or Slow station.")](https://github.com/1405yuga/Train-Indicator)
-[![Task Scheduler](https://github.com/1405yuga/Task-Scheduler/assets/82303711/d09dc167-aff9-4863-a250-2c072896fab0 "[Task Scheduler] - This is the android application where one can add tasks and date which will be displayed on the screen.")](https://github.com/1405yuga/Task-Scheduler)
+[![Train Indicator](https://github-production-user-asset-6210df.s3.amazonaws.com/82303711/263662624-8e28307a-fcef-4de2-b712-ed9f131dd2ac.png "[Train Indicator] - This is the android application which plots the railway stations of Mumbai local with the status of the station i.e Fast station or Slow station.")](https://github.com/1405yuga/Train-Indicator)
+[![Task Scheduler](https://github-production-user-asset-6210df.s3.amazonaws.com/82303711/258309923-d09dc167-aff9-4863-a250-2c072896fab0.png "[Task Scheduler] - This is the android application where one can add tasks and date which will be displayed on the screen.")](https://github.com/1405yuga/Task-Scheduler)
+[![EC-GeoCustomer](https://github-production-user-asset-6210df.s3.amazonaws.com/82303711/264062371-8347173c-939c-4c8e-bc67-8b2861533ba6.png "[EC-GeoCustomer] -  This is the branch of E-Commerce using Geo-Navigation where customer can search the shops where particular product is available.")](https://github.com/1405yuga/EC-GeoCustomer)
+[![EC-GeoOwner](https://github-production-user-asset-6210df.s3.amazonaws.com/82303711/264073721-e068ed3b-f5ae-4d1d-9318-559cbd1cf1c4.png "[EC-GeoOwner] - This is the branch of E-Commerce using Geo-Navigation where shop owners update the stock availability using barcode scanning and track the orders placed.")](https://github.com/1405yuga/EC-GeoOwner)
 
 ## Courses I've Conquered
 
@@ -44,17 +46,18 @@
 
 <a href ="https://www.coursera.org/account/accomplishments/verify/2HNZMCSRB3V7">
 <img 
-    src="https://github.com/1405yuga/1405yuga/assets/82303711/bc27d20d-2dcb-441d-bf4a-b2b0cfc93bc3",
+    src="https://github-production-user-asset-6210df.s3.amazonaws.com/82303711/263960313-bc27d20d-2dcb-441d-bf4a-b2b0cfc93bc3.png",
     height=200,
     title="Python Data Structures">
 </a>
 
 <a href ="https://www.coursera.org/account/accomplishments/verify/GTJSZ6VAZJTM">
 <img 
-    src="https://github.com/1405yuga/1405yuga/assets/82303711/bc27d20d-2dcb-441d-bf4a-b2b0cfc93bc3",
+    src="https://github-production-user-asset-6210df.s3.amazonaws.com/82303711/264108215-ca1ac73b-373e-488e-9bf0-a0fc3fc61df1.png",
     height=200,
     title="Crash Course on Python">
 </a>
+
 
 ## Code Language & GitHub Statistics
 
@@ -67,14 +70,14 @@
 
 <a href ="https://www.instagram.com/artngineer_/">
 <img 
-    src="https://github.com/1405yuga/1405yuga/assets/82303711/0a59f207-b1f4-4707-97f9-225114436208",
+    src="https://github-production-user-asset-6210df.s3.amazonaws.com/82303711/263992455-0a59f207-b1f4-4707-97f9-225114436208.png",
     height=200,
     title="artngineer_">
 </a>
 
 ## Connect with Me 
 
-[![linkedin](https://github.com/1405yuga/1405yuga/assets/82303711/4ae6f75d-f78f-4cc7-b558-0f7012dda35f "LinkedIn")](https://www.linkedin.com/in/yuga-ganesh-vasaikar/)
+[![linkedin](https://github-production-user-asset-6210df.s3.amazonaws.com/82303711/263973251-4ae6f75d-f78f-4cc7-b558-0f7012dda35f.png "LinkedIn")](https://www.linkedin.com/in/yuga-ganesh-vasaikar/)
 [![gmail](https://user-images.githubusercontent.com/94210466/176989132-d3aea8a4-f425-4977-a3e2-e6daf569a140.svg "Gmail")](mailto:yugav2001@gmail.com)
 [![microsoft-outlook-2019](https://user-images.githubusercontent.com/94210466/176989190-9e24774d-fb09-412b-af19-2f594b53a5a3.svg "Outlook")](mailto:yugav2001@outlook.com)
 [![whatsapp](https://user-images.githubusercontent.com/94210466/176989471-2df5e9f0-0edd-4a1a-ba0a-a169b7ec612b.svg "Whatsapp")](https://wa.me/919307156651)
