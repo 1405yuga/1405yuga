@@ -67,7 +67,7 @@
 
 <a href ="https://www.instagram.com/artngineer_/">
 <img 
-    src="https://github.com/1405yuga/1405yuga/assets/82303711/39d30d40-d93b-4c76-b6c7-9bc101973d56",
+    src="https://github.com/1405yuga/1405yuga/assets/82303711/0a59f207-b1f4-4707-97f9-225114436208",
     height=200,
     title="artngineer_">
 </a>
