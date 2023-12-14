@@ -17,6 +17,7 @@
 ![cloud-firestore](https://user-images.githubusercontent.com/94210466/176891077-0c14f0da-93cb-4d77-a3d2-bb5290d887ee.svg "Cloud-Firestore")
 <img src = "https://github.com/1405yuga/1405yuga/assets/82303711/98e8d621-0cd7-49d6-9538-64e78096773b" width = "48" height = "48" title = "Android">
 <img src = "https://github.com/1405yuga/1405yuga/assets/82303711/9cb21027-9b3b-42de-9fef-d8777b541d8f" width = "48" height = "48" title = "Material design">
+<img src = "https://github.com/Vaishnav-Kanhirathingal/Vaishnav-Kanhirathingal/assets/94210466/a78caaf0-582f-4b6b-b721-1486dd140316" width = "48" height = "48" title = "Biometrics">
 
 ### Additional Skills :
 
@@ -36,35 +37,25 @@
 [![EC-GeoCustomer](https://github-production-user-asset-6210df.s3.amazonaws.com/82303711/264062371-8347173c-939c-4c8e-bc67-8b2861533ba6.png "[EC-GeoCustomer] -  This is the branch of E-Commerce using Geo-Navigation where customer can search the shops where particular product is available.")](https://github.com/1405yuga/EC-GeoCustomer)
 [![EC-GeoOwner](https://github-production-user-asset-6210df.s3.amazonaws.com/82303711/264073721-e068ed3b-f5ae-4d1d-9318-559cbd1cf1c4.png "[EC-GeoOwner] - This is the branch of E-Commerce using Geo-Navigation where shop owners update the stock availability using barcode scanning and track the orders placed.")](https://github.com/1405yuga/EC-GeoOwner)
 
-## Courses I've Conquered
+## Courses I've Conquered [[Badges]](https://g.dev/Yuga_Vasaikar)
 
-<a href ="https://g.dev/Yuga_Vasaikar">
+<a href ="https://developer.android.com/courses/android-basics-kotlin/course">
 <img 
-    src="https://developer.android.com/static/images/hero-assets/android-basics-kotlin.svg",
+    src="https://developer.android.com/static/images/hero-assets/kotlin-certified-grey.svg",
     height=200,
     title="Android Basics in Kotlin">
-</a>
-
-<a href ="https://www.coursera.org/account/accomplishments/verify/2HNZMCSRB3V7">
-<img 
-    src="https://github-production-user-asset-6210df.s3.amazonaws.com/82303711/263960313-bc27d20d-2dcb-441d-bf4a-b2b0cfc93bc3.png",
-    height=200,
-    title="Python Data Structures">
-</a>
-
-<a href ="https://www.coursera.org/account/accomplishments/verify/GTJSZ6VAZJTM">
-<img 
-    src="https://github-production-user-asset-6210df.s3.amazonaws.com/82303711/264108215-ca1ac73b-373e-488e-9bf0-a0fc3fc61df1.png",
-    height=200,
-    title="Crash Course on Python">
 </a>
 
 
 ## Code Language & GitHub Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1405yuga&layout=compact)](https://github.com/1405yuga/github-readme-stats)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1405yuga&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=1405yuga&hide_border=true&theme=transparent&include_all_commits=true" />
+</a>
 
-[![Yuga's GitHub stats](https://github-readme-stats.vercel.app/api?username=1405yuga&hide=stars,prs,issues,contribs&show_icons=true)](https://github.com/1405yuga/github-readme-stats)
 
 ## Painted Creations
 > Beyond the keyboard, I'm an Artist Too. Check out my canvas paintings and rangolis on Instagram!
