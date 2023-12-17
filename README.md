@@ -1,7 +1,6 @@
 ## Hello there 👋! Yuga here
 
 ```
-💻  I'm a passionate fresher who's constantly exploring new technologies and contributing to exciting projects.
 📱  I'm deeply involved in Android application development
 🎨  I'm not just a coder, I'm also an artist at heart.
 ```
@@ -16,13 +15,13 @@
 ![firebase](https://github.com/1405yuga/1405yuga/assets/82303711/7f1eb9f8-2d92-4f40-80f2-a77fd5a6ad99 "Firebase")
 ![cloud-firestore](https://user-images.githubusercontent.com/94210466/176891077-0c14f0da-93cb-4d77-a3d2-bb5290d887ee.svg "Cloud-Firestore")
 <img src = "https://github.com/1405yuga/1405yuga/assets/82303711/98e8d621-0cd7-49d6-9538-64e78096773b" width = "48" height = "48" title = "Android">
-<img src = "https://github.com/1405yuga/1405yuga/assets/82303711/9cb21027-9b3b-42de-9fef-d8777b541d8f" width = "48" height = "48" title = "Material design">
+<img src = "https://github.com/1405yuga/1405yuga/assets/82303711/f1e476db-eef2-41de-aa53-9531e2dfb1a1" width = "48" height = "48" title = "Material design">
 <img src = "https://github.com/Vaishnav-Kanhirathingal/Vaishnav-Kanhirathingal/assets/94210466/a78caaf0-582f-4b6b-b721-1486dd140316" width = "48" height = "48" title = "Biometrics">
 
 ### Additional Skills :
 
-![python](https://user-images.githubusercontent.com/94210466/176882150-a2db58bd-4895-407d-bd0b-dcf5d1cd915b.svg "python")
-![django](https://github.com/1405yuga/1405yuga/assets/82303711/57333006-acc2-46fe-98ff-427d55ceefac "Django")
+![python](https://user-images.githubusercontent.com/94210466/176882150-a2db58bd-4895-407d-bd0b-dcf5d1cd915b.svg "Python")
+<img src = "https://github.com/1405yuga/1405yuga/assets/82303711/12af51eb-5abb-44fc-a7b8-c88de850f266"  width = "48" height = "48" title = "Django">
 ![google maps api](https://github.com/1405yuga/1405yuga/assets/82303711/2b3f7968-abca-4860-b1f5-18e3e736c45c "Google Maps API")
 <img src = "https://github.com/1405yuga/1405yuga/assets/82303711/2085b811-fd9f-412f-8326-8c54bef46563" width = "48" height = "48" title = "Google ML Kit">
 ![html-5](https://user-images.githubusercontent.com/94210466/176882240-678b5588-a0cb-474f-902d-072ecd037965.svg "HTML-5")
@@ -31,11 +30,17 @@
 ## Projects in Focus
 >Hover for a Glimpse, Click for Full Details and Code!
 
+### Completed
 [![HomeHiveClone](https://github-production-user-asset-6210df.s3.amazonaws.com/82303711/270328909-07ded117-85cc-495d-bb11-c84bfd2c0b27.png "[HomeHiveClone] - HomeHiveClone is the android application which is developed to showcase front-end skills in android. Reference of Figma  project is considered to develop this UI project.")](https://github.com/1405yuga/UI-Respository.git)
 [![Train Indicator](https://github-production-user-asset-6210df.s3.amazonaws.com/82303711/263662624-8e28307a-fcef-4de2-b712-ed9f131dd2ac.png "[Train Indicator] - This is the android application which plots the railway stations of Mumbai local with the status of the station i.e Fast station or Slow station.")](https://github.com/1405yuga/Train-Indicator)
 [![Task Scheduler](https://github-production-user-asset-6210df.s3.amazonaws.com/82303711/258309923-d09dc167-aff9-4863-a250-2c072896fab0.png "[Task Scheduler] - This is the android application where one can add tasks and date which will be displayed on the screen.")](https://github.com/1405yuga/Task-Scheduler)
 [![EC-GeoCustomer](https://github-production-user-asset-6210df.s3.amazonaws.com/82303711/264062371-8347173c-939c-4c8e-bc67-8b2861533ba6.png "[EC-GeoCustomer] -  This is the branch of E-Commerce using Geo-Navigation where customer can search the shops where particular product is available.")](https://github.com/1405yuga/EC-GeoCustomer)
 [![EC-GeoOwner](https://github-production-user-asset-6210df.s3.amazonaws.com/82303711/264073721-e068ed3b-f5ae-4d1d-9318-559cbd1cf1c4.png "[EC-GeoOwner] - This is the branch of E-Commerce using Geo-Navigation where shop owners update the stock availability using barcode scanning and track the orders placed.")](https://github.com/1405yuga/EC-GeoOwner)
+
+### In Working
+
+[![PinTask](https://github.com/1405yuga/1405yuga/assets/82303711/1cb95fde-5ae2-4ce7-ab25-4765d70c7818 "[PinTask] - An Android app that let you add and pin tasks in notifications , with dark and light theme for personalized touch.")](https://github.com/1405yuga/PintTask)
+
 
 ## Courses I've Conquered [[Badges]](https://g.dev/Yuga_Vasaikar)
 
