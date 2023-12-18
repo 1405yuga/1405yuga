@@ -37,7 +37,7 @@
 [![EC-GeoCustomer](https://github-production-user-asset-6210df.s3.amazonaws.com/82303711/264062371-8347173c-939c-4c8e-bc67-8b2861533ba6.png "[EC-GeoCustomer] -  This is the branch of E-Commerce using Geo-Navigation where customer can search the shops where particular product is available.")](https://github.com/1405yuga/EC-GeoCustomer)
 [![EC-GeoOwner](https://github-production-user-asset-6210df.s3.amazonaws.com/82303711/264073721-e068ed3b-f5ae-4d1d-9318-559cbd1cf1c4.png "[EC-GeoOwner] - This is the branch of E-Commerce using Geo-Navigation where shop owners update the stock availability using barcode scanning and track the orders placed.")](https://github.com/1405yuga/EC-GeoOwner)
 
-### In Working
+### In Progress
 
 [![PinTask](https://github.com/1405yuga/1405yuga/assets/82303711/1cb95fde-5ae2-4ce7-ab25-4765d70c7818 "[PinTask] - An Android app that let you add and pin tasks in notifications , with dark and light theme for personalized touch.")](https://github.com/1405yuga/PintTask)
 
