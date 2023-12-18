@@ -36,6 +36,10 @@
 [![Task Scheduler](https://github-production-user-asset-6210df.s3.amazonaws.com/82303711/258309923-d09dc167-aff9-4863-a250-2c072896fab0.png "[Task Scheduler] - This is the android application where one can add tasks and date which will be displayed on the screen.")](https://github.com/1405yuga/Task-Scheduler)
 [![EC-GeoCustomer](https://github-production-user-asset-6210df.s3.amazonaws.com/82303711/264062371-8347173c-939c-4c8e-bc67-8b2861533ba6.png "[EC-GeoCustomer] -  This is the branch of E-Commerce using Geo-Navigation where customer can search the shops where particular product is available.")](https://github.com/1405yuga/EC-GeoCustomer)
 [![EC-GeoOwner](https://github-production-user-asset-6210df.s3.amazonaws.com/82303711/264073721-e068ed3b-f5ae-4d1d-9318-559cbd1cf1c4.png "[EC-GeoOwner] - This is the branch of E-Commerce using Geo-Navigation where shop owners update the stock availability using barcode scanning and track the orders placed.")](https://github.com/1405yuga/EC-GeoOwner)
+[![Face Deteaction](https://github.com/1405yuga/1405yuga/assets/82303711/11ba05df-d1d2-455c-bb6c-5663955f472f "[Face Detection] - Detects the face features and the smiling probability.")](https://github.com/1405yuga/FaceDetection)
+[![Covid-19 Tracker](https://github.com/1405yuga/1405yuga/assets/82303711/1e0dfbbf-9609-4fbb-aaa9-bf921a515105 "[Covid-19 Tracker] - Displays the active, confirmed, recovered and deceased covid cases in India with each state and corresponding district cases.")](https://github.com/1405yuga/Covid-19Tracker)
+[![E-fishery application](https://github.com/1405yuga/1405yuga/assets/82303711/2bb46fe0-5cee-4d77-892e-41a3a7e66b34 "[E-fishery application] - An e-commerce platform for business of fish and related materials.")](https://github.com/1405yuga/E-fishery-application)
+
 
 ### In Progress
 
