@@ -31,6 +31,8 @@
 >Hover for a Glimpse, Click for Full Details and Code!
 
 ### Completed
+
+[![PinTask](https://github.com/1405yuga/1405yuga/assets/82303711/1cb95fde-5ae2-4ce7-ab25-4765d70c7818 "[PinTask] - An Android app that let you add and pin tasks in notifications , with dark and light theme for personalized touch.")](https://github.com/1405yuga/PintTask)
 [![HomeHiveClone](https://github-production-user-asset-6210df.s3.amazonaws.com/82303711/270328909-07ded117-85cc-495d-bb11-c84bfd2c0b27.png "[HomeHiveClone] - HomeHiveClone is the android application which is developed to showcase front-end skills in android. Reference of Figma  project is considered to develop this UI project.")](https://github.com/1405yuga/UI-Respository/tree/main/HomeHiveClone)
 [![Train Indicator](https://github-production-user-asset-6210df.s3.amazonaws.com/82303711/263662624-8e28307a-fcef-4de2-b712-ed9f131dd2ac.png "[Train Indicator] - This is the android application which plots the railway stations of Mumbai local with the status of the station i.e Fast station or Slow station.")](https://github.com/1405yuga/Train-Indicator)
 [![Task Scheduler](https://github-production-user-asset-6210df.s3.amazonaws.com/82303711/258309923-d09dc167-aff9-4863-a250-2c072896fab0.png "[Task Scheduler] - This is the android application where one can add tasks and date which will be displayed on the screen.")](https://github.com/1405yuga/Task-Scheduler)
@@ -42,10 +44,9 @@
 
 
 ### In Progress
+[![Catify](https://github.com/user-attachments/assets/5189f2cc-1723-46b6-8ea6-5f0bbc8a69fb "[Catify] - An app to organize categories, create item lists with quantities, and display them in grid or staggered views based on user preference.")](https://github.com/1405yuga/Catify)
 
-[![PinTask](https://github.com/1405yuga/1405yuga/assets/82303711/1cb95fde-5ae2-4ce7-ab25-4765d70c7818 "[PinTask] - An Android app that let you add and pin tasks in notifications , with dark and light theme for personalized touch.")](https://github.com/1405yuga/PintTask)
-
-
+
 ## Courses I've Conquered [[Badges]](https://g.dev/Yuga_Vasaikar)
 
 <a href ="https://developer.android.com/courses/android-basics-kotlin/course">
