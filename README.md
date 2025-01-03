@@ -44,7 +44,7 @@
 
 
 ### In Progress
-[![Catify](https://github.com/user-attachments/assets/5189f2cc-1723-46b6-8ea6-5f0bbc8a69fb "[Catify] - An app to organize categories, create item lists with quantities, and display them in grid or staggered views based on user preference.")](https://github.com/1405yuga/Catify)
+[![Stackify](https://github.com/1405yuga/Stackify/raw/refs/heads/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp "[Stackify] - An app to organize categories, create item lists with quantities, and display them in grid or staggered views based on user preference.")](https://github.com/1405yuga/Stackify)
 
 
 ## Courses I've Conquered [[Badges]](https://g.dev/Yuga_Vasaikar)
