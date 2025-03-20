@@ -32,6 +32,7 @@
 
 ### Completed
 
+[![Stackify](https://github.com/1405yuga/Stackify/raw/refs/heads/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp "[Stackify] - An app to organize categories, create item lists with quantities, and display them in grid or staggered views based on user preference.")](https://github.com/1405yuga/Stackify)
 [![PinTask](https://github.com/1405yuga/1405yuga/assets/82303711/1cb95fde-5ae2-4ce7-ab25-4765d70c7818 "[PinTask] - An Android app that let you add and pin tasks in notifications , with dark and light theme for personalized touch.")](https://github.com/1405yuga/PintTask)
 [![HomeHiveClone](https://github-production-user-asset-6210df.s3.amazonaws.com/82303711/270328909-07ded117-85cc-495d-bb11-c84bfd2c0b27.png "[HomeHiveClone] - HomeHiveClone is the android application which is developed to showcase front-end skills in android. Reference of Figma  project is considered to develop this UI project.")](https://github.com/1405yuga/UI-Respository/tree/main/HomeHiveClone)
 [![Train Indicator](https://github-production-user-asset-6210df.s3.amazonaws.com/82303711/263662624-8e28307a-fcef-4de2-b712-ed9f131dd2ac.png "[Train Indicator] - This is the android application which plots the railway stations of Mumbai local with the status of the station i.e Fast station or Slow station.")](https://github.com/1405yuga/Train-Indicator)
@@ -42,13 +43,15 @@
 [![Covid-19 Tracker](https://github.com/1405yuga/1405yuga/assets/82303711/1e0dfbbf-9609-4fbb-aaa9-bf921a515105 "[Covid-19 Tracker] - Displays the active, confirmed, recovered and deceased covid cases in India with each state and corresponding district cases.")](https://github.com/1405yuga/Covid-19Tracker)
 [![E-fishery application](https://github.com/1405yuga/1405yuga/assets/82303711/2bb46fe0-5cee-4d77-892e-41a3a7e66b34 "[E-fishery application] - An e-commerce platform for business of fish and related materials.")](https://github.com/1405yuga/E-fishery-application)
 
-
-### In Progress
-[![Stackify](https://github.com/1405yuga/Stackify/raw/refs/heads/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp "[Stackify] - An app to organize categories, create item lists with quantities, and display them in grid or staggered views based on user preference.")](https://github.com/1405yuga/Stackify)
-
 
 ## Courses I've Conquered [[Badges]](https://g.dev/Yuga_Vasaikar)
 
+<a href ="https://developer.android.com/courses/android-basics-compose/course">
+<img 
+    src="https://developer.android.com/static/courses/android-basics-compose/images/hero-assets/compose-course-cluster.svg",
+    height=200,
+    title="Android Basics with Compose">
+</a>
 <a href ="https://developer.android.com/courses/android-basics-kotlin/course">
 <img 
     src="https://developer.android.com/static/images/hero-assets/kotlin-certified-grey.svg",
