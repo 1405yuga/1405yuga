@@ -10,6 +10,7 @@
 ### Core Skills :
 
 ![kotlin](https://user-images.githubusercontent.com/94210466/176880688-46732008-93f7-4fd6-8177-286f566d50df.svg "Kotlin")
+<img src = "https://funkymuse.dev/assets/img/compose/compose_logo.png" width = "48" height = "48" title = "Jetpack Compose">
 ![java](https://user-images.githubusercontent.com/94210466/176880691-4ab9e925-6394-436f-861e-5958410a6cc2.svg "JAVA")
 ![xml](https://user-images.githubusercontent.com/94210466/176882996-7df75494-3edd-483a-8800-5ef39ca4369b.png "XML")
 ![firebase](https://github.com/1405yuga/1405yuga/assets/82303711/7f1eb9f8-2d92-4f40-80f2-a77fd5a6ad99 "Firebase")
@@ -17,6 +18,7 @@
 <img src = "https://github.com/1405yuga/1405yuga/assets/82303711/98e8d621-0cd7-49d6-9538-64e78096773b" width = "48" height = "48" title = "Android">
 <img src = "https://github.com/1405yuga/1405yuga/assets/82303711/f1e476db-eef2-41de-aa53-9531e2dfb1a1" width = "48" height = "48" title = "Material design">
 <img src = "https://github.com/Vaishnav-Kanhirathingal/Vaishnav-Kanhirathingal/assets/94210466/a78caaf0-582f-4b6b-b721-1486dd140316" width = "48" height = "48" title = "Biometrics">
+<img src = "https://github.com/user-attachments/assets/77f07425-e186-40b8-af71-a40d6fb62c59" width = "48" height = "48" title = "Supabase">
 
 ### Additional Skills :
 
