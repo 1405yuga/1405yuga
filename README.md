@@ -30,6 +30,9 @@
 ## Projects in Focus
 >Hover for a Glimpse, Click for Full Details and Code!
 
+### In Progress
+[![PassVault](https://raw.github.com/1405yuga/PassVault/refs/heads/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp "[PassVault] - PassVault is a Compose-based app that securely manages passwords for online accounts, banking information, and other credentials, providing encrypted storage and a seamless user experience.")](https://github.com/1405yuga/PassVault)
+
 ### Completed
 
 [![Stackify](https://github.com/1405yuga/Stackify/raw/refs/heads/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp "[Stackify] - An app to organize categories, create item lists with quantities, and display them in grid or staggered views based on user preference.")](https://github.com/1405yuga/Stackify)
